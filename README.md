@@ -4,6 +4,9 @@
 
 ## 업데이트 내역
 
+* 0.1.3
+  * 업데이트 : [fix] update MemberServiceTest 
+
 * 0.1.2
   * 업데이트 : [refactor] update MemberService
   * 추가 : [test] MemberServiceTest
