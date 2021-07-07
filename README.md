@@ -4,6 +4,10 @@
 
 ## 업데이트 내역
 
+* 0.1.4
+  * 추가 : [feat] MemberController
+  * 업데이트 : [refactor] MemberService, MemoryMemberRepository
+
 * 0.1.3
   * 업데이트 : [fix] update MemberServiceTest 
 
