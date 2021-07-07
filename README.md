@@ -1,8 +1,12 @@
 # Spring Boot 개인 스터디
 
-> Spring Boot, 웹 MVC, DB 접근 기술, 07.06 기준 hello spring 수준
+> Spring Boot, 웹 MVC, DB 접근 기술, 07.07 기준 hello spring 수준
 
 ## 업데이트 내역
+
+* 0.1.2
+  * 업데이트 : [refactor] update MemberService
+  * 추가 : [test] MemberServiceTest
 
 * 0.1.1
   * commit 태그 규칙에 맞게 수정
