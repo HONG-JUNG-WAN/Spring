@@ -1,8 +1,13 @@
 # Spring Boot 개인 스터디
 
-> Spring Boot, 웹 MVC, DB 접근 기술, 07.07 기준 hello spring 수준
+> Spring Boot, 웹 MVC, DB 접근 기술, 07.08 기준 hello spring 수준
 
 ## 업데이트 내역
+
+* 0.1.5
+  * 추가 : [feat] MemberController
+  * 업데이트 : [feat] MemberService, MemoryMemberRepository
+  * 설명 : Registering Spring Beans directly using Java code
 
 * 0.1.4
   * 추가 : [feat] MemberController
