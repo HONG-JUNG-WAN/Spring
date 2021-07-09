@@ -4,10 +4,10 @@
 
 ## 업데이트 내역
 
-* 0.1.7
+* 0.1.6
   * 추가 : [feat] HomeController, [feat] home.html
   * 설명 : add home screen
-  * 
+   
 * 0.1.5
   * 추가 : [feat] MemberController
   * 업데이트 : [feat] MemberService, MemoryMemberRepository
