@@ -2,6 +2,12 @@
 
 > Spring Boot, 웹 MVC, DB 접근 기술, 07.09 기준 hello spring 수준
 
+## UML
+ 
+ * 7.9 수정
+![스크린샷(1058)](https://user-images.githubusercontent.com/76596316/125029310-66edbb80-e0c4-11eb-8e97-bab87ca7d1f3.png)
+
+
 ## 업데이트 내역
 
 * 0.1.6
