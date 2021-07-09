@@ -1,9 +1,13 @@
 # Spring Boot 개인 스터디
 
-> Spring Boot, 웹 MVC, DB 접근 기술, 07.08 기준 hello spring 수준
+> Spring Boot, 웹 MVC, DB 접근 기술, 07.09 기준 hello spring 수준
 
 ## 업데이트 내역
 
+* 0.1.7
+  * 추가 : [feat] HomeController, [feat] home.html
+  * 설명 : add home screen
+  * 
 * 0.1.5
   * 추가 : [feat] MemberController
   * 업데이트 : [feat] MemberService, MemoryMemberRepository
