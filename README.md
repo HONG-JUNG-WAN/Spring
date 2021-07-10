@@ -1,6 +1,6 @@
 # Spring Boot 개인 스터디
 
-> Spring Boot, 웹 MVC, DB 접근 기술, 07.09 기준 hello spring 수준
+> Spring Boot, 웹 MVC, DB 접근 기술, 07.10 기준 hello spring 수준
 <br>
 
   * 개발 환경 : Java 11, IDE : IntelliJ
@@ -13,6 +13,10 @@
 
 
 ## 업데이트 내역
+
+* 0.1.7
+  * 추가 : [feat] MemberForm, MemberController, createMemberForm.html
+  * 설명 : sign up
 
 * 0.1.6
   * 추가 : [feat] HomeController, [feat] home.html
