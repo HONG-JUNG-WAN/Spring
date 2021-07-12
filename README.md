@@ -1,6 +1,6 @@
 # Spring Boot 개인 스터디
 
-> Spring Boot, 웹 MVC, DB 접근 기술, 07.12 기준 hello spring 수준
+> Spring Boot, 웹 MVC, DB 접근 기술, 마지막 수정 : 07.13
 <br>
 
   * 개발 환경 : Java 11, IDE : IntelliJ
@@ -8,12 +8,17 @@
 
 ## UML
  
- * 7.9 수정 (7.13일 업데이트 예정)
-![스크린샷(1058)](https://user-images.githubusercontent.com/76596316/125029310-66edbb80-e0c4-11eb-8e97-bab87ca7d1f3.png)
+ * 7.13
+ 
+![스크린샷(1060)](https://user-images.githubusercontent.com/76596316/125330502-d3491300-e381-11eb-8593-b69555f1ff98.png)
 
 
 ## 업데이트 내역
 
+* 0.2.0
+  * 추가 : [feat] JdbcMemberRepository, [update] build.gradle, [update] resources/application.properties
+  * 설명 : jdbc, h2 add DB related library, spring boot add DB connection settings
+  
 * 0.1.9
   * 추가 : [feat] sql/ddl.sql 
   * 설명 : Spring DB access technology
