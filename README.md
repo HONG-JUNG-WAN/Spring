@@ -14,7 +14,7 @@
 
 ## 업데이트 내역
 
-*0.1.9
+* 0.1.9
   * 추가 : [feat] sql/ddl.sql 
   * 설명 : Spring DB access technology
 
