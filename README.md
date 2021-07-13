@@ -15,6 +15,10 @@
 
 ## 업데이트 내역
 
+* 0.2.1
+  * 추가 : [feat] JdbcMemberRepository, [feat] SpringConfig
+  * 설명 : Spring DB access technology - 순수 JDBC, SpringConfig update
+
 * 0.2.0
   * 추가 : [feat] JdbcMemberRepository, [update] build.gradle, [update] resources/application.properties
   * 설명 : jdbc, h2 add DB related library, spring boot add DB connection settings
