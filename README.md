@@ -69,4 +69,4 @@
 
 ## 정보
 
-홍정완 – [@velog 주소](https://velog.io/@daydream) - hjw43ok@hs.ac.kr
+홍정완 – [cs 블로그 @velog 주소](https://velog.io/@daydream) - hjw43ok@hs.ac.kr
