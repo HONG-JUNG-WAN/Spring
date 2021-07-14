@@ -15,6 +15,10 @@
 
 ## 업데이트 내역
 
+* 0.2.2
+  * 추가 : [test] MemberServiceIntegrationTest
+  * 설명 : Integration test by connecting Spring Container and DB
+
 * 0.2.1
   * 추가 : [feat] JdbcMemberRepository, [feat] SpringConfig
   * 설명 : Spring DB access technology - 순수 JDBC, SpringConfig update
