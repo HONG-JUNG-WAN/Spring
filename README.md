@@ -10,8 +10,7 @@
  
  * 7.17
  
-![스크린샷(1060)](https://user-images.githubusercontent.com/76596316/125998986-fa3cad3d-b9c5-4d1d-a772-e962be56eb62.png)
-
+![스크린샷(1069)](https://user-images.githubusercontent.com/76596316/125999263-a153744a-0c7c-4acd-90af-ef94cf0f9e15.png)
 
 
 ## 업데이트 내역
