@@ -1,6 +1,6 @@
 # Spring Boot 개인 스터디
 
-> Spring Boot, 웹 MVC, DB 접근 기술, 마지막 수정 : 07.13
+> Spring Boot, 웹 MVC, DB 접근 기술, 마지막 수정 : 07.17
 <br>
 
   * 개발 환경 : Java 11, IDE : IntelliJ
@@ -14,6 +14,12 @@
 
 
 ## 업데이트 내역
+
+* 0.2.3
+  * 추가 : [feat] JdbcTemplateMemberRepository
+  * 설명 : 순수 Jdbc -> Spring JdbcTemplate
+  * 추가 : [refactor] SpringConfig
+  * 설명 : see comments
 
 * 0.2.2
   * 추가 : [test] MemberServiceIntegrationTest
