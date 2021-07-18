@@ -8,7 +8,7 @@
 
 ## UML
  
- * 7.17
+ * 7.17, 7.22일 수정 예정
  
     ![스크린샷(1069)](https://user-images.githubusercontent.com/76596316/125999263-a153744a-0c7c-4acd-90af-ef94cf0f9e15.png)
 
