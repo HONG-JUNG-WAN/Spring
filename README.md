@@ -14,7 +14,7 @@
 
 ## 업데이트 내역
 
-* 0.2.3
+* 0.2.4
   * 추가 : [feat] SpringDataJpaMemberRepository
   * 수정 : [style] MemberServiceIntegrationTest
   * 수정 : [refactor] SpringConfig
