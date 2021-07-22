@@ -1,6 +1,6 @@
 # Spring Boot 개인 스터디
 
-> Spring Boot, 웹 MVC, DB 접근 기술, 마지막 수정 : 07.20
+> Spring Boot, 웹 MVC, DB 접근 기술, 마지막 수정 : 07.22
 <br>
 
   * 개발 환경 : Java 11, IDE : IntelliJ
@@ -8,11 +8,16 @@
 
 ## UML
  
- * 7.17 👉 7.22일 수정 예정
+ * 7.17 👉 7.23일 수정 예정
  
     ![스크린샷(1069)](https://user-images.githubusercontent.com/76596316/125999263-a153744a-0c7c-4acd-90af-ef94cf0f9e15.png)
 
 ## 업데이트 내역
+
+* 0.2.3
+  * 추가 : [feat] SpringDataJpaMemberRepository
+  * 수정 : [style] MemberServiceIntegrationTest
+  * 수정 : [refactor] SpringConfig
 
 * 0.2.3
   * 추가 : [feat] JpaMemberRepository
