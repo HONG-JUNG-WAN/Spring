@@ -5,6 +5,7 @@
 
   * 개발 환경 : Java 11, IDE : IntelliJ
 
+## Directory structure
 
 ## UML
  
