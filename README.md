@@ -1,6 +1,6 @@
 # Spring Boot 개인 스터디
 
-> Spring Boot, 웹 MVC, DB 접근 기술, 마지막 수정 : 07.22
+> Spring Boot, 웹 MVC, DB 접근 기술, 마지막 수정 : 07.23
 <br>
 
   * 개발 환경 : Java 11, IDE : IntelliJ
@@ -8,15 +8,26 @@
 
 ## UML
  
- * 7.17 👉 7.23일 수정 예정
+ * 7.17 👉 7.24일 수정 예정
  
     ![스크린샷(1069)](https://user-images.githubusercontent.com/76596316/125999263-a153744a-0c7c-4acd-90af-ef94cf0f9e15.png)
 
 ## 업데이트 내역
 
+* 0.2.5 
+  * 추가 : [feat] MemberService
+  * 설명 : 회원 조회 시간 측정 추가
+  
+  * 추가 : [feat] TimeTraceAop
+  * 설명 : 시간 측정 AOP 등록
+  
+  * 수정 : [refactor] SpringConfig
+
 * 0.2.4
   * 추가 : [feat] SpringDataJpaMemberRepository
+  
   * 수정 : [style] MemberServiceIntegrationTest
+  
   * 수정 : [refactor] SpringConfig
 
 * 0.2.3
@@ -26,6 +37,7 @@
 * 0.2.3
   * 추가 : [feat] JdbcTemplateMemberRepository
   * 설명 : 순수 Jdbc -> Spring JdbcTemplate
+   
   * 추가 : [refactor] SpringConfig
   * 설명 : see comments
 
@@ -58,11 +70,13 @@
    
 * 0.1.5
   * 추가 : [feat] MemberController
+  
   * 업데이트 : [feat] MemberService, MemoryMemberRepository
   * 설명 : Registering Spring Beans directly using Java code
 
 * 0.1.4
   * 추가 : [feat] MemberController
+  
   * 업데이트 : [refactor] MemberService, MemoryMemberRepository
 
 * 0.1.3
@@ -70,15 +84,19 @@
 
 * 0.1.2
   * 업데이트 : [refactor] update MemberService
+  
   * 추가 : [test] MemberServiceTest
 
 * 0.1.1
   * commit 태그 규칙에 맞게 수정
+  
   * 추가 : [feat] MemberService class implementation
 
 * 0.1.0
   * 첫 업데이트 
+  
   * 추가 : 'domain' 패키지 추가
+  
   * 업데이트 : 'repository' 패키지 update
   * 업데이트 : 'test code'  update
 
