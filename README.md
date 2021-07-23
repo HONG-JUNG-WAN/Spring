@@ -3,11 +3,7 @@
 > Spring Boot, 웹 MVC, DB 접근 기술, 마지막 수정 : 07.24
 <br>
 
-  * 개발 환경 : Java 11, IDE : IntelliJ
-
-## Directory structure
-
-
+  * 개발 환경 : Java 11, Spring 2.4 ,IDE : IntelliJ
 
 ## UML
  
