@@ -1,17 +1,20 @@
 # Spring Boot 개인 스터디
 
-> Spring Boot, 웹 MVC, DB 접근 기술, 마지막 수정 : 07.23
+> Spring Boot, 웹 MVC, DB 접근 기술, 마지막 수정 : 07.24
 <br>
 
   * 개발 환경 : Java 11, IDE : IntelliJ
 
 ## Directory structure
 
+
+
 ## UML
  
- * 7.17 👉 7.24일 수정 예정
+ * 7.24일 
  
-    ![스크린샷(1069)](https://user-images.githubusercontent.com/76596316/125999263-a153744a-0c7c-4acd-90af-ef94cf0f9e15.png)
+  ![스크린샷(1088)](https://user-images.githubusercontent.com/76596316/126839417-275c0565-9648-4e78-80bb-f3b847888a60.png)
+
 
 ## 업데이트 내역
 
