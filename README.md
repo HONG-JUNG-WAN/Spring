@@ -1,4 +1,4 @@
-# Spring Boot 개인 스터디
+# Spring Boot - study
 
 > Spring Boot, 웹 MVC, DB 접근 기술, 마지막 수정 : 07.24
 <br>
